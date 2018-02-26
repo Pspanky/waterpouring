@@ -16,6 +16,7 @@ const FallBack = (props) => {
 };
 
 const App = (props) => {
+  console.log('asd');
   return (
     <Router>
       <div>
